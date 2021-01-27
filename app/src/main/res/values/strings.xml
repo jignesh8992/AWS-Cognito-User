@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">AWSCognito</string>
+
+
+    <!-- Labels -->
+    <string name="label_home">Home</string>
+    <string name="label_shopping">Shopping</string>
+    <string name="label_orders">Orders</string>
+    <string name="label_cart">Carts</string>
+    <string name="label_settings">Settings</string>
+    <string name="main_page_selected">%s page is selected</string>
+
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="signin">Sign In</string>
+    <string name="have_account">Already have an account? Sign In</string>
+    <string name="write_name">Write your name</string>
+    <string name="write_email">Write your email</string>
+    <string name="invalid_email">Write valid email</string>
+    <string name="write_username">Write your username</string>
+    <string name="write_otp">Please enter verification code sent to your email</string>
+    <string name="write_otp_length">Verification code must be six digits</string>
+    <string name="invalid_username">Username must be at least four characters</string>
+    <string name="write_password">Write your password</string>
+    <string name="write_old_password">Write your old password</string>
+    <string name="write_new_password">Write your new password</string>
+    <string name="invalid_password">Password must contain minimum 8 characters at least 1 Alphabet, 1 Number and 1 Special Character</string>
+    <string name="something_wrong">Something went wrong…</string>
+    <string name="verify_email">Email Verification</string>
+    <string name="verification_email">Email Verification?</string>
+    <string name="verify">Verify</string>
+    <string name="request_new">Resend</string>
+    <string name="forget_password_q">Forgot Password?</string>
+    <string name="forget_password">Forgot Password</string>
+    <string name="need_account">Don\'t have an account? Sign Up</string>
+    <string name="get_code">Get verification code</string>
+    <string name="reset">Reset</string>
+    <string name="change_password">Change Password</string>
+    <string name="hint_old_password">Old Password</string>
+    <string name="hint_new_password">New Password</string>
+    <string name="password_changed">Password Changed Successfully..</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone No.</string>
+    <string name="requests_not_found">Requests not found</string>
+    <string name="action_profile">Profile</string>
+    <string name="action_signout">Signout</string>
+    <string name="your_offline">You are offline, Please try again later…</string>
+    <string name="your_offline2">You are offline\nPlease try again later…</string>
+    <string name="loading_">Loading</string>
+
+    <!-- Different styles for OTP input box. -->
+    <string name="style_square">square_box</string>
+    <string name="style_rounded">rounded_box</string>
+    <string name="style_underline">underline</string>
+    <string name="style_rounded_underline">rounded_underline</string>
+    <string name="mask_character">\u2022</string>
+</resources>
